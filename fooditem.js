@@ -396,7 +396,7 @@ const foodItem= [
     category : 'south indian',
     rating : 4.3,
     price: 34,
-    img: 'https://w7.pngwing.com/pngs/369/24/png-transparent-hamburger-chicken-sandwich-veggie-burger-fast-food-burger-king-food-recipe-fast-food-restaurant-thumbnail.png',
+    img: 'https://img1.freepng.ru/20171220/hdw/hamburger-burger-png-image-5a3a9bd480b453.8972506915137904205272.jpg',
     quantity: 1
 },
 ]
