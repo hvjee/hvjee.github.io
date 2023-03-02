@@ -155,7 +155,7 @@ const foodItem= [
 },
 {
     id: 18,
-    name: 'Paneer Butter Masala',
+    name: 'Paneer Masala',
     category : 'paneer',
     rating : 4.3,
     price: 15,
