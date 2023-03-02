@@ -396,7 +396,7 @@ const foodItem= [
     category : 'south indian',
     rating : 4.3,
     price: 34,
-    img: 'https://cdn3d.iconscout.com/3d/premium/thumb/pizza-slice-5863063-4897339.png',
+    img: 'https://www.pngall.com/wp-content/uploads/2016/03/Food-PNG.png',
     quantity: 1
 },
 ]
