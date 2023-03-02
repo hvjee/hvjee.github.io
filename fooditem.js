@@ -396,7 +396,7 @@ const foodItem= [
     category : 'south indian',
     rating : 4.3,
     price: 34,
-    img: 'https://img1.freepng.ru/20171220/hdw/hamburger-burger-png-image-5a3a9bd480b453.8972506915137904205272.jpg',
+    img: 'https://pngimg.com/d/burger_sandwich_PNG4135.png',
     quantity: 1
 },
 ]
