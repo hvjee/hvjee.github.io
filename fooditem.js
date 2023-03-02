@@ -77,7 +77,7 @@ const foodItem= [
     category : 'biryani',
     rating : 4.3,
     price: 15,
-    img: 'images/biryani/mughlai-biryani.jpg',
+    img: 'https://cdn3d.iconscout.com/3d/premium/thumb/pizza-slice-3979406-3364106@0.png',
     quantity: 1
 },
 {
@@ -131,7 +131,7 @@ const foodItem= [
     category : 'chicken',
     rating : 4.3,
     price: 20,
-    img: 'images/chicken/Murgh-Musallam.jpg',
+    img: 'https://cdn3d.iconscout.com/3d/premium/thumb/cheeseburger-3825016-3187543.png',
     quantity: 1
 },
 {
@@ -198,7 +198,7 @@ const foodItem= [
     category : 'paneer',
     rating : 4.3,
     price: 5,
-    img: 'images/paneer/shahi-paneer.jpg',
+    img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwNaCWnpYvLIy_G5nPWmxQQ3jSgNWL0Kp6RKPR1i2PypivroMi4v3O-c30hKT98PpPcxE&usqp=CAU',
     quantity: 1
 },
 {
@@ -261,7 +261,7 @@ const foodItem= [
     category : 'vegetable',
     rating : 4.3,
     price: 4,
-    img: 'images/vegetable/vegetable-pakora.jpg',
+    img: 'https://cdn3d.iconscout.com/3d/premium/thumb/bucket-of-chicken-5158329-4315340.png',
     quantity: 1
 },
 {
@@ -324,7 +324,7 @@ const foodItem= [
     category : 'chinese',
     rating : 4.3,
     price: 8,
-    img: 'images/chinese/veg-fried-rice.jpg',
+    img: 'https://cdn3d.iconscout.com/3d/premium/thumb/japanese-food-5380243-4497592.png?f=webp',
     quantity: 1
 },
 {
