@@ -396,7 +396,7 @@ const foodItem= [
     category : 'south indian',
     rating : 4.3,
     price: 34,
-    img: 'https://pngimg.com/d/burger_sandwich_PNG4135.png',
+    img: 'https://cdn3d.iconscout.com/3d/premium/thumb/cheeseburger-3825016-3187543.png',
     quantity: 1
 },
 ]
